@@ -17,4 +17,3 @@ int main (){
     printf("Final_Price = %d\n", Final_Price);
     return 0 ;
 } 
-   
