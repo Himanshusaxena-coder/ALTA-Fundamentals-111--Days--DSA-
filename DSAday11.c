@@ -8,7 +8,6 @@ int main(){
     scanf("%d", &Number2);
     printf("Enter the Operator : ");
     scanf(" %c", &Operator);
-
     switch (Operator)
     {
     case '+':
@@ -23,7 +22,6 @@ int main(){
     case '/':
         printf("Your answer is  = %d\n",Number1 / Number2);
         break;
-    
     default:
     printf("Invalid Data");
         break;
